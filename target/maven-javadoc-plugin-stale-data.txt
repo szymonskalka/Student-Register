@@ -1,0 +1,89 @@
+@options
+@packages
+-classpath
+'C:/Users/szymo/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar;C:/Users/szymo/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar;C:/Users/szymo/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/szymo/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar;C:/Users/szymo/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar;C:/Users/szymo/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar;C:/Users/szymo/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar;C:/Users/szymo/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar;C:/Users/szymo/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar;C:/Users/szymo/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar;C:/Users/szymo/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar;C:/Users/szymo/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar;C:/Users/szymo/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;C:/Users/szymo/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar;C:/Users/szymo/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/szymo/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/szymo/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar;C:/Users/szymo/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar;C:/Users/szymo/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar;C:/Users/szymo/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar;C:/Users/szymo/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/szymo/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar;C:/Users/szymo/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar;C:/Users/szymo/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar;C:/Users/szymo/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar;C:/Users/szymo/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar;C:/Users/szymo/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar;C:/Users/szymo/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar;C:/Users/szymo/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar;C:/Users/szymo/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.7.12/org.eclipse.persistence.core-2.7.12.jar;C:/Users/szymo/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/9.4.0/org.eclipse.persistence.asm-9.4.0.jar;C:/Users/szymo/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.antlr/2.7.12/org.eclipse.persistence.antlr-2.7.12.jar;C:/Users/szymo/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa/2.7.12/org.eclipse.persistence.jpa-2.7.12.jar;C:/Users/szymo/.m2/repository/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3.jar;C:/Users/szymo/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.7.12/org.eclipse.persistence.jpa.jpql-2.7.12.jar;C:/Users/szymo/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.12/org.eclipse.persistence.moxy-2.7.12.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/szymo/Desktop/studia/JWIUM/lab4/SSlab4/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/szymo/Desktop/studia/JWIUM/lab4/SSlab4/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SSlab4-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/szymo/Desktop/studia/JWIUM/lab4/SSlab4/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'SSlab4-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+controllerPackage
+pl.polsl.skalka.sslab1.modelPackage
+pl.polsl.skalka.sslab4
+pl.polsl.skalka.sslab4.resources
+ViewPackage
+C:\Users\szymo\.m2\repository\jakarta\platform\jakarta.jakartaee-api\10.0.0\jakarta.jakartaee-api-10.0.0.jar = 1705783898565
+C:\Users\szymo\.m2\repository\jakarta\platform\jakarta.jakartaee-web-api\10.0.0\jakarta.jakartaee-web-api-10.0.0.jar = 1705783899320
+C:\Users\szymo\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1705783899128
+C:\Users\szymo\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\3.1.0\jakarta.servlet.jsp-api-3.1.0.jar = 1705783898668
+C:\Users\szymo\.m2\repository\jakarta\el\jakarta.el-api\5.0.1\jakarta.el-api-5.0.1.jar = 1705783898974
+C:\Users\szymo\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar = 1705783898948
+C:\Users\szymo\.m2\repository\jakarta\faces\jakarta.faces-api\4.0.1\jakarta.faces-api-4.0.1.jar = 1705783898776
+C:\Users\szymo\.m2\repository\jakarta\ws\rs\jakarta.ws.rs-api\3.1.0\jakarta.ws.rs-api-3.1.0.jar = 1705783898872
+C:\Users\szymo\.m2\repository\jakarta\websocket\jakarta.websocket-api\2.1.0\jakarta.websocket-api-2.1.0.jar = 1705783898966
+C:\Users\szymo\.m2\repository\jakarta\websocket\jakarta.websocket-client-api\2.1.0\jakarta.websocket-client-api-2.1.0.jar = 1705783899061
+C:\Users\szymo\.m2\repository\jakarta\json\jakarta.json-api\2.1.0\jakarta.json-api-2.1.0.jar = 1705783899061
+C:\Users\szymo\.m2\repository\jakarta\json\bind\jakarta.json.bind-api\3.0.0\jakarta.json.bind-api-3.0.0.jar = 1705783899078
+C:\Users\szymo\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1705783899153
+C:\Users\szymo\.m2\repository\jakarta\ejb\jakarta.ejb-api\4.0.1\jakarta.ejb-api-4.0.1.jar = 1705783899183
+C:\Users\szymo\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1705783899178
+C:\Users\szymo\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1705783899238
+C:\Users\szymo\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar = 1705783899248
+C:\Users\szymo\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.1.0\jakarta.interceptor-api-2.1.0.jar = 1705783899278
+C:\Users\szymo\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.0.1\jakarta.enterprise.cdi-api-4.0.1.jar = 1705783899373
+C:\Users\szymo\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.0.1\jakarta.enterprise.lang-model-4.0.1.jar = 1705783899332
+C:\Users\szymo\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1705783899341
+C:\Users\szymo\.m2\repository\jakarta\authentication\jakarta.authentication-api\3.0.0\jakarta.authentication-api-3.0.0.jar = 1705783899384
+C:\Users\szymo\.m2\repository\jakarta\security\enterprise\jakarta.security.enterprise-api\3.0.0\jakarta.security.enterprise-api-3.0.0.jar = 1705783899415
+C:\Users\szymo\.m2\repository\jakarta\jms\jakarta.jms-api\3.1.0\jakarta.jms-api-3.1.0.jar = 1705783899453
+C:\Users\szymo\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.0\jakarta.activation-api-2.1.0.jar = 1705783899434
+C:\Users\szymo\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.0\jakarta.mail-api-2.1.0.jar = 1705783899502
+C:\Users\szymo\.m2\repository\jakarta\resource\jakarta.resource-api\2.1.0\jakarta.resource-api-2.1.0.jar = 1705783899497
+C:\Users\szymo\.m2\repository\jakarta\authorization\jakarta.authorization-api\2.1.0\jakarta.authorization-api-2.1.0.jar = 1705783899507
+C:\Users\szymo\.m2\repository\jakarta\batch\jakarta.batch-api\2.1.1\jakarta.batch-api-2.1.1.jar = 1705783899526
+C:\Users\szymo\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.core\2.7.12\org.eclipse.persistence.core-2.7.12.jar = 1705870770457
+C:\Users\szymo\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.asm\9.4.0\org.eclipse.persistence.asm-9.4.0.jar = 1705870770576
+C:\Users\szymo\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.antlr\2.7.12\org.eclipse.persistence.antlr-2.7.12.jar = 1705870770911
+C:\Users\szymo\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa\2.7.12\org.eclipse.persistence.jpa-2.7.12.jar = 1705870771245
+C:\Users\szymo\.m2\repository\org\eclipse\persistence\jakarta.persistence\2.2.3\jakarta.persistence-2.2.3.jar = 1705870770915
+C:\Users\szymo\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.jpql\2.7.12\org.eclipse.persistence.jpa.jpql-2.7.12.jar = 1705870771152
+C:\Users\szymo\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.moxy\2.7.12\org.eclipse.persistence.moxy-2.7.12.jar = 1705870770748
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\src\main\java = 1705869787260
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\allclasses-index.html = 1706053061559
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\allpackages-index.html = 1706053061561
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\deprecated-list.html = 1706053061542
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\element-list = 1706053061442
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\help-doc.html = 1706053061585
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\index-all.html = 1706053061580
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\index.html = 1706053061546
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\jquery-ui.overrides.css = 1706053061601
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\member-search-index.js = 1706053061565
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\module-search-index.js = 1706053061561
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\overview-summary.html = 1706053061582
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\overview-tree.html = 1706053061539
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\package-search-index.js = 1706053061562
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\script.js = 1706053061589
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\search.js = 1706053061591
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\serialized-form.html = 1706053061482
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\stylesheet.css = 1706053061587
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\tag-search-index.js = 1706053061566
+C:\Users\szymo\Desktop\studia\JWIUM\lab4\SSlab4\target\site\apidocs\type-search-index.js = 1706053061563

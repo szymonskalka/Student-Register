@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"controllerPackage"},{"l":"pl.polsl.skalka.sslab1.modelPackage"},{"l":"pl.polsl.skalka.sslab4"},{"l":"pl.polsl.skalka.sslab4.resources"},{"l":"ViewPackage"}];updateSearchResults();

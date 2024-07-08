@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>        
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Dziennik Ocen</title>
+    </head>
+    <body>
+        <h1>Dziennik Ocen</h1>
+        <hr>
+        <br>
+        <form action="FormAddStudent" method="GET">
+            <p>First Name:<input type=text size=20 name=firstname></p>
+            <p>Last Name:<input type=text size=20 name=lastname></p>
+            <input type="submit" value="Add Student" />
+        </form>
+        <hr>
+        <br>
+        <form action="FormAddSubject" method="GET">
+            <p>Student ID:<input type=text size=20 name=studentID></p>
+            <p>Subject Name:<input type=text size=20 name=name></p>
+            <input type="submit" value="Add Subject" />
+        </form>
+        <hr>
+        <br>
+        <form action="FormAddGrade" method="GET">
+            <p>Student ID:<input type=text size=20 name=studentID></p>
+            <p>Subject ID:<input type=text size=20 name=subjectID></p>
+            <p>Grade:<input type=text size=20 name=grade></p>
+            <p>Grade Weight:<input type=text size=20 name=gradeWeight></p>
+            <input type="submit" value="Add Grade" />
+        </form>
+        <hr>
+        <br>
+        <form action="FormShowStudetnsList" method="GET">
+            <input type="submit" value="Show Students List" />
+        </form>
+
+    </body>
+</html>

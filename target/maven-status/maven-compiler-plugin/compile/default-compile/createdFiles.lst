@@ -1,0 +1,14 @@
+controllerPackage\Controller.class
+pl\polsl\skalka\sslab1\modelPackage\Average.class
+ViewPackage\ViewServlet.class
+controllerPackage\AddGradeServlet.class
+pl\polsl\skalka\sslab1\modelPackage\Subject.class
+pl\polsl\skalka\sslab1\modelPackage\Register.class
+pl\polsl\skalka\sslab1\modelPackage\IndexOutOfRegisterException.class
+pl\polsl\skalka\sslab4\JakartaRestConfiguration.class
+pl\polsl\skalka\sslab1\modelPackage\Grade.class
+controllerPackage\AddSubjectServlet.class
+pl\polsl\skalka\sslab1\modelPackage\Student.class
+pl\polsl\skalka\sslab4\NewServlet.class
+pl\polsl\skalka\sslab4\resources\JakartaEE10Resource.class
+controllerPackage\AddStudentServlet.class
